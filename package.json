@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shade1471/7.5-Puppeteer-II.git"
+    "url": "https://github.com/GafarovEvgenii/7.5.-Puppeteer-2"
   },
   "keywords": [
     "cucumber",
@@ -19,9 +19,9 @@
   "author": "Evgeny Gafarov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shade1471/7.5-Puppeeter-II/issues"
+    "url": "https://github.com/GafarovEvgenii/7.5.-Puppeteer-2"
   },
-  "homepage": "https://github.com/shade1471/7.5-Puppeeter-II#readme",
+  "homepage": "https://github.com/GafarovEvgenii/7.5.-Puppeteer-2",
   "dependencies": {
     "@cucumber/cucumber": "^8.2.2",
     "chai": "^4.3.6",
